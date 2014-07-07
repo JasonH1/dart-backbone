@@ -1,0 +1,14 @@
+{
+  "name": "backbone-deep-model",
+  "homepage": "https://github.com/WiserTogether/backbone-deep-model",
+  "version": "0.10.5",
+  "_release": "0.10.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.10.5",
+    "commit": "b23775602428192cfba500bbd7d43ead35efa7ee"
+  },
+  "_source": "git://github.com/WiserTogether/backbone-deep-model.git",
+  "_target": "0.10.5",
+  "_originalSource": "git://github.com/WiserTogether/backbone-deep-model"
+}

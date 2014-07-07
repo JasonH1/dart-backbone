@@ -1,0 +1,32 @@
+{
+  "name": "basebackbone",
+  "version": "0.1.0",
+  "dependencies": {
+    "backbone": "*",
+    "jquery": "~1.9.1",
+    "requirejs": "~2.1.8",
+    "bootstrap": "~3.0",
+    "modernizr": "~2.6.2",
+    "sinon": ">=1.6.0",
+    "requirejs-text": "~2.0.10",
+    "polymer": "*"
+  },
+  "devDependencies": {
+    "chai": "~1.7.2",
+    "es5-shim": "2.1.0",
+    "expect": "~0.2.0",
+    "less.js": "~1.4.2",
+    "sinonjs": "1.7.1"
+  },
+  "ignore": [
+    "Gruntfile.js",
+    "bower_components",
+    "build.js",
+    "karma.conf.js",
+    "lib",
+    "node_modules",
+    "specs",
+    "src"
+  ],
+  "private": true
+}

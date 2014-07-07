@@ -1,0 +1,45 @@
+{
+  "name": "basebackbone",
+    "version": "0.1.0",
+    "description": "A Base Project for Backbone.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/JasonH1/basebackbone.git"
+    },
+    "keywords": [
+        "backbone",
+        "requirejs"
+    ],
+    "author": "Jason Ho",
+    "license": "MIT",
+    "bugs": {
+        "url": "https:/github.com/JasonH1/basebackbone/issues"
+    },
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+  "dependencies": {
+    "http-proxy": "~0.10.3",
+    "lodash": "~0.9.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "load-grunt-tasks": "~0.2.0",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-contrib-watch": "~0.5.2",
+    "grunt-contrib-requirejs": "~0.4.4",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-less": "~0.8.1",
+    "load-grunt-tasks": "~0.2.0",
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-connect-proxy": "*"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "bundleDependencies": [],
+  "private": true,
+  "main": "server.js"
+}
